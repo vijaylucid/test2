@@ -6,7 +6,7 @@ import { withRouter } from 'react-router-dom';
 function Test() {
     return (
         <div>
-            <h1>Hello from the Test Component</h1>
+            <h1>Hello from the Test Component is important</h1>
         </div>
     );
 }
